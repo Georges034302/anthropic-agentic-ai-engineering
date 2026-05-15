@@ -9,23 +9,6 @@
 
 ---
 
-## Labs (Hands-On Reference)
-
-For practical, hands-on examples of these concepts, see the [labs/](../labs) directory:
-
-- [Lab 1: Minimal Agentic Loop](../labs/Lab_1_Minimal_Agentic_Loop.md)
-- [Lab 2: Engineer and Test Agent Prompts](../labs/Lab_2_Engineer_and_Test_Agent_Prompts.md)
-- [Lab 3: Connect Agent to Tools via MCP](../labs/Lab_3_Connect_Agent_to_Tools_via_MCP.md)
-- [Lab 4: Stateful, Guardrailed Agent](../labs/Lab_4_Stateful_Guardrailed_Agent.md)
-- [Lab 5: Multi-Agent Workflow](../labs/Lab_5_Multi_Agent_Workflow.md)
-- [Lab 6: Agentic RAG](../labs/Lab_6_Agentic_RAG.md)
-- [Lab 7: Agentic Software Engineering](../labs/Lab_7_Agentic_Software_Engineering.md)
-- [Lab 8: Productionize Agentic System](../labs/Lab_8_Productionize_Agentic_System.md)
-
-Definitions of key terms used throughout the **Anthropic Agentic AI Engineering** course. Terms are organized alphabetically. Where applicable, links point to the module where the concept is introduced.
-
----
-
 ## A
 
 - **Agent** — An AI system that perceives a goal, plans steps, selects tools, and acts autonomously to achieve an outcome, rather than only responding to a single prompt. See [Module 4](../modules/Module_4_Building_AI_Agents.md).
