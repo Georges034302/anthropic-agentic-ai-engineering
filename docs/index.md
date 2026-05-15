@@ -16,6 +16,18 @@ For hands-on practice, see the [Labs](#labs-hands-on) section below.
 ## Table of Contents
 
 ### Modules
+- [Module 1: Introduction to Agentic AI](../modules/Module_1_Introduction_to_Agentic_AI.md)
+  - [1.1 What is Agentic AI](../modules/Module_1_Introduction_to_Agentic_AI.md#11-what-is-agentic-ai)
+  - [1.2 Foundations of Modern AI Models](../modules/Module_1_Introduction_to_Agentic_AI.md#12-foundations-of-modern-ai-models)
+  - [1.3 AI API Fundamentals](../modules/Module_1_Introduction_to_Agentic_AI.md#13-ai-api-fundamentals)
+  - [1.4 Enterprise AI Use Cases](../modules/Module_1_Introduction_to_Agentic_AI.md#14-enterprise-ai-use-cases)
+
+- [Module 2: Prompt Engineering and Context Design](../modules/Module_2_Prompt_Engineering_and_Context_Design.md)
+  - [2.1 Prompt Engineering Principles](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#21-prompt-engineering-principles)
+  - [2.2 Structured Agent Prompts](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#22-structured-agent-prompts)
+  - [2.3 Tool Use and Function Calling](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#23-tool-use-and-function-calling)
+  - [2.4 Context Engineering](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#24-context-engineering)
+
 - [Module 3: MCP (Model Context Protocol)](../modules/Module_3_MCP_Model_Context_Protocol.md)
   - [3.1 Introduction to MCP](../modules/Module_3_MCP_Model_Context_Protocol.md#31-introduction-to-mcp)
   - [3.2 MCP Components](../modules/Module_3_MCP_Model_Context_Protocol.md#32-mcp-components)
@@ -65,17 +77,6 @@ For hands-on practice, see the [Labs](#labs-hands-on) section below.
 - [Lab 7: Agentic Software Engineering](../labs/Lab_7_Agentic_Software_Engineering.md)
 - [Lab 8: Productionize Agentic System](../labs/Lab_8_Productionize_Agentic_System.md)
 
-- [Module 1: Introduction to Agentic AI](../modules/Module_1_Introduction_to_Agentic_AI.md)
-  - [1.1 What is Agentic AI](../modules/Module_1_Introduction_to_Agentic_AI.md#11-what-is-agentic-ai)
-  - [1.2 Foundations of Modern AI Models](../modules/Module_1_Introduction_to_Agentic_AI.md#12-foundations-of-modern-ai-models)
-  - [1.3 AI API Fundamentals](../modules/Module_1_Introduction_to_Agentic_AI.md#13-ai-api-fundamentals)
-  - [1.4 Enterprise AI Use Cases](../modules/Module_1_Introduction_to_Agentic_AI.md#14-enterprise-ai-use-cases)
-
-- [Module 2: Prompt Engineering and Context Design](../modules/Module_2_Prompt_Engineering_and_Context_Design.md)
-  - [2.1 Prompt Engineering Principles](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#21-prompt-engineering-principles)
-  - [2.2 Structured Agent Prompts](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#22-structured-agent-prompts)
-  - [2.3 Tool Use and Function Calling](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#23-tool-use-and-function-calling)
-  - [2.4 Context Engineering](../modules/Module_2_Prompt_Engineering_and_Context_Design.md#24-context-engineering)
 
     
 
