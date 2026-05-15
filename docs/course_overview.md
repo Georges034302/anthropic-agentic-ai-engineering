@@ -75,16 +75,11 @@ Anthropic Agentic AI Engineering
 anthropic-agentic-ai-engineering/
 ├── README.md
 ├── LICENSE
+├── CONTRIBUTING.md
 ├── docs/
-│   ├── index.md              # Clickable course index / TOC
-│   └── course_overview.md    # This file
-└── modules/
-    ├── Module_1_Introduction_to_Agentic_AI.md
-    ├── Module_2_Prompt_Engineering_and_Context_Design.md
-    ├── Module_3_MCP_Model_Context_Protocol.md
-    ├── Module_4_Building_AI_Agents.md
-    ├── Module_5_Multi_Agent_Systems.md
-    ├── Module_6_RAG_and_Enterprise_Knowledge_Agents.md
-    ├── Module_7_AI_Augmented_Software_Engineering.md
-    └── Module_8_Production_Agent_Systems.md
+│   ├── course_overview.md    # This file
+│   ├── glossary.md           # Key terms and definitions
+│   └── index.md              # Clickable course index / TOC
+├── labs/ ...
+└── modules/ ...
 ```
