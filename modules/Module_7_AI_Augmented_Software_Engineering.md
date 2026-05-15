@@ -1,4 +1,7 @@
+
 # Module 7 — AI-Augmented Software Engineering
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 7: Agentic Software Engineering](../labs/Lab_7_Agentic_Software_Engineering.md).
 
 > **Module goal.** Apply agentic AI **across the entire software lifecycle** — from coding and review to security, deployment, and operations — without sacrificing engineering rigor.
 

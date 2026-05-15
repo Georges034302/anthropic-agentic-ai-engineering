@@ -1,4 +1,7 @@
+
 # Module 5 — Multi-Agent Systems
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 5: Multi-Agent Workflow](../labs/Lab_5_Multi_Agent_Workflow.md).
 
 > **Module goal.** Compose multiple specialized agents into a **system that solves problems no single agent can** — while keeping coordination, communication, and cost under control.
 

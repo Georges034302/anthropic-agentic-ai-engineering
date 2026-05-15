@@ -1,4 +1,7 @@
+
 # Module 1 — Introduction to Agentic AI
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 1: Minimal Agentic Loop](../labs/Lab_1_Minimal_Agentic_Loop.md).
 
 > **Module goal.** Build a precise mental model of what agentic AI *is*, what makes it different from prior generations of AI, and where it creates measurable value in the enterprise.
 

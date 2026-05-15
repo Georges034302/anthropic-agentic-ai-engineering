@@ -1,4 +1,7 @@
+
 # Module 3 — MCP (Model Context Protocol)
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 3: Connect Agent to Tools via MCP](../labs/Lab_3_Connect_Agent_to_Tools_via_MCP.md).
 
 > **Module goal.** Understand MCP as the **USB-C of AI** — a standard protocol that lets any model connect to any tool, data source, or capability without bespoke glue per vendor.
 

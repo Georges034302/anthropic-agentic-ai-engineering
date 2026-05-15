@@ -6,11 +6,25 @@
 
 Welcome to the course index. Each module is maintained as its own file in the [`modules/`](../modules) directory. Use the table of contents below to navigate.
 
-For a high-level tree view of the course, see [course_overview.md](course_overview.md). For definitions of key terms, see [glossary.md](glossary.md). To contribute, see [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+For hands-on practice, see the [Labs](#labs-hands-on) section below.
+
 
 ---
 
+
 ## Table of Contents
+
+### Labs (Hands-On)
+
+- [Lab 1: Minimal Agentic Loop](../labs/Lab_1_Minimal_Agentic_Loop.md)
+- [Lab 2: Engineer and Test Agent Prompts](../labs/Lab_2_Engineer_and_Test_Agent_Prompts.md)
+- [Lab 3: Connect Agent to Tools via MCP](../labs/Lab_3_Connect_Agent_to_Tools_via_MCP.md)
+- [Lab 4: Stateful, Guardrailed Agent](../labs/Lab_4_Stateful_Guardrailed_Agent.md)
+- [Lab 5: Multi-Agent Workflow](../labs/Lab_5_Multi_Agent_Workflow.md)
+- [Lab 6: Agentic RAG](../labs/Lab_6_Agentic_RAG.md)
+- [Lab 7: Agentic Software Engineering](../labs/Lab_7_Agentic_Software_Engineering.md)
+- [Lab 8: Productionize Agentic System](../labs/Lab_8_Productionize_Agentic_System.md)
 
 - [Module 1: Introduction to Agentic AI](../modules/Module_1_Introduction_to_Agentic_AI.md)
   - [1.1 What is Agentic AI](../modules/Module_1_Introduction_to_Agentic_AI.md#11-what-is-agentic-ai)

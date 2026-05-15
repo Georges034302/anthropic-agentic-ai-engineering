@@ -1,4 +1,7 @@
+
 # Module 8 — Production Agent Systems
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 8: Productionize Agentic System](../labs/Lab_8_Productionize_Agentic_System.md).
 
 > **Module goal.** Run agents in production like any other **mission-critical service** — with architecture, observability, governance, and a path to scale.
 

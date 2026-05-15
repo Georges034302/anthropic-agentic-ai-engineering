@@ -35,14 +35,33 @@ Foundations ─▶ Prompting ─▶ MCP ─▶ Single Agents ─▶ Multi-Agent 
 | 7 | [AI-Augmented Software Engineering](modules/Module_7_AI_Augmented_Software_Engineering.md) | AI-assisted development, AI-augmented SDLC, secure dev, AI DevOps |
 | 8 | [Production Agent Systems](modules/Module_8_Production_Agent_Systems.md) | Production architecture, observability, responsible AI ops, scaling |
 
+
 ## Repository Structure
 
 - [docs/index.md](docs/index.md) — Course index and full clickable Table of Contents
 - [docs/course_overview.md](docs/course_overview.md) — Tree view of the course structure
 - [docs/glossary.md](docs/glossary.md) — Definitions of key terms used across the course
-- [modules/](modules) — The 8 module markdown files
+- [modules/](modules) — The 8 module markdown files (theory)
+- [labs/](labs) — Hands-on labs for each module (see below)
 - [CONTRIBUTING.md](CONTRIBUTING.md) — How to contribute to this repository
 - [LICENSE](LICENSE) — Project license
+
+## Labs: Hands-On Agentic AI Engineering
+
+Each lab is a practical, production-grade exercise mapped to the modules. Start with the labs for hands-on skills, then dive into the modules for theory and architecture.
+
+| # | Lab | Focus |
+|---|-----|-------|
+| 1 | [Minimal Agentic Loop](labs/Lab_1_Minimal_Agentic_Loop.md) | Build a minimal agentic loop (plan, act, observe, adapt) |
+| 2 | [Engineer and Test Agent Prompts](labs/Lab_2_Engineer_and_Test_Agent_Prompts.md) | Design, structure, and test agent prompts |
+| 3 | [Connect Agent to Tools via MCP](labs/Lab_3_Connect_Agent_to_Tools_via_MCP.md) | MCP server/client, tool exposure, agent invocation |
+| 4 | [Stateful, Guardrailed Agent](labs/Lab_4_Stateful_Guardrailed_Agent.md) | Add memory, tool registry, and guardrails |
+| 5 | [Multi-Agent Workflow](labs/Lab_5_Multi_Agent_Workflow.md) | Compose supervisor/worker or debate-style multi-agent systems |
+| 6 | [Agentic RAG](labs/Lab_6_Agentic_RAG.md) | Retrieval-augmented generation, citation, and governance |
+| 7 | [Agentic Software Engineering](labs/Lab_7_Agentic_Software_Engineering.md) | AI-augmented SDLC: patching, testing, PRs |
+| 8 | [Productionize Agentic System](labs/Lab_8_Productionize_Agentic_System.md) | Observability, logging, policy, scaling |
+
+See the [labs/](labs) directory for all lab files and instructions.
 
 ## Getting Started
 

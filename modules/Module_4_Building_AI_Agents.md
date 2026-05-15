@@ -1,4 +1,7 @@
+
 # Module 4 — Building AI Agents
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 4: Stateful, Guardrailed Agent](../labs/Lab_4_Stateful_Guardrailed_Agent.md).
 
 > **Module goal.** Move from theory to engineering: design a single agent that **plans, remembers, acts autonomously, and stays inside its guardrails** — the building block of every multi-agent system.
 

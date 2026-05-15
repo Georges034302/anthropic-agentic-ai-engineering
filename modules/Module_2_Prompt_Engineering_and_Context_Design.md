@@ -1,4 +1,7 @@
+
 # Module 2 — Prompt Engineering and Context Design
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 2: Engineer and Test Agent Prompts](../labs/Lab_2_Engineer_and_Test_Agent_Prompts.md).
 
 > **Module goal.** Treat prompts and context as **engineered artifacts**: design them with structure, test them like code, and shape them to make models reliable, tool-using collaborators rather than unpredictable text generators.
 

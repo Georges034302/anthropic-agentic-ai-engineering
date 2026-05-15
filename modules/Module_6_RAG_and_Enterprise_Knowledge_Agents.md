@@ -1,4 +1,7 @@
+
 # Module 6 — RAG and Enterprise Knowledge Agents
+
+> 💡 **Hands-on Labs:** For practical exercises that complement this module, see the [labs/](../labs) directory or start with [Lab 6: Agentic RAG](../labs/Lab_6_Agentic_RAG.md).
 
 > **Module goal.** Engineer **trustworthy, governed, agent-driven access to enterprise knowledge** — so answers are grounded, citable, fresh, and safe.
 

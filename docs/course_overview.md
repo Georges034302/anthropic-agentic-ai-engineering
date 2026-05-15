@@ -29,6 +29,15 @@ Anthropic Agentic AI Engineering
 │   ├── 3.3 Building MCP Servers
 │   └── 3.4 Enterprise MCP Design
 │
+├── Labs (Hands-On)
+│   ├── Lab 1: Minimal Agentic Loop
+│   ├── Lab 2: Engineer and Test Agent Prompts
+│   ├── Lab 3: Connect Agent to Tools via MCP
+│   ├── Lab 4: Stateful, Guardrailed Agent
+│   ├── Lab 5: Multi-Agent Workflow
+│   ├── Lab 6: Agentic RAG
+│   ├── Lab 7: Agentic Software Engineering
+│   └── Lab 8: Productionize Agentic System
 ├── Module 4: Building AI Agents
 │   ├── 4.1 Single-Agent Architectures
 │   ├── 4.2 Memory Systems
