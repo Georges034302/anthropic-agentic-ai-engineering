@@ -2,6 +2,10 @@
 
 > **Module goal.** Apply agentic AI **across the entire software lifecycle** — from coding and review to security, deployment, and operations — without sacrificing engineering rigor.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to agentic AI in software engineering—engineering agents that augment, automate, and secure the software development lifecycle (SDLC). The focus is on agentic workflows for coding, review, and DevOps, not on generic automation or unrelated SD topics.
+
 ## Table of Contents
 
 - [7.1 AI-Assisted Development](#71-ai-assisted-development)
@@ -13,7 +17,9 @@
 
 ## 7.1 AI-Assisted Development
 
-> AI does not replace the engineer. It **amplifies** the engineer who knows what they want.
+> **Agentic AI in software engineering means building agents that amplify, automate, and secure the SDLC—while keeping humans in the loop.**
+>
+> In this course, agentic software engineering is about practical, production-grade augmentation, not generic code generation.
 
 ```
    Intent ─▶ AI ─▶ Draft ─▶ Engineer reviews ─▶ Tests ─▶ Merge

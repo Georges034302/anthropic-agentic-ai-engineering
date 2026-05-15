@@ -1,5 +1,9 @@
 # Glossary
 
+> **Agentic AI Engineering Focus**
+>
+> All terms in this glossary are defined in the context of agentic AI engineering—autonomous, goal-driven systems that plan, act, and adapt in real-world workflows. Definitions are specific to agentic architectures, not general AI or software development.
+
 Definitions of key terms used throughout the **Anthropic Agentic AI Engineering** course. Terms are organized alphabetically. Where applicable, links point to the module where the concept is introduced.
 
 ---

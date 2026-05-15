@@ -2,6 +2,10 @@
 
 > **Module goal.** Understand MCP as the **USB-C of AI** — a standard protocol that lets any model connect to any tool, data source, or capability without bespoke glue per vendor.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to the Model Context Protocol (MCP) as a foundational standard for agentic AI systems—enabling agents to connect with tools, data, and capabilities in a portable, interoperable way. The focus is on MCP as an enabler of agentic workflows, not on general API design or unrelated integration topics.
+
 ## Table of Contents
 
 - [3.1 Introduction to MCP](#31-introduction-to-mcp)
@@ -13,7 +17,9 @@
 
 ## 3.1 Introduction to MCP
 
-> Before MCP, every AI app re-implemented "connect model X to system Y". MCP turns that NxM integration matrix into a clean N+M.
+> **MCP is the protocol that lets agentic AI systems reliably use tools, access data, and orchestrate workflows—making agent autonomy practical and portable.**
+>
+> In this course, MCP is presented as the backbone for building agentic systems that can reason, act, and adapt across heterogeneous environments.
 
 ```
    Without MCP                         With MCP

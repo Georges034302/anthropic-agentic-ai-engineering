@@ -2,6 +2,10 @@
 
 > **Module goal.** Run agents in production like any other **mission-critical service** — with architecture, observability, governance, and a path to scale.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to running agentic AI systems in production—engineering for reliability, observability, governance, and scale. The focus is on production-grade agentic architectures, not on generic deployment or unrelated software ops.
+
 ## Table of Contents
 
 - [8.1 Production Architecture](#81-production-architecture)
@@ -13,7 +17,9 @@
 
 ## 8.1 Production Architecture
 
-> A demo runs an agent. A product runs **many agents, for many users, against many systems, under SLAs**.
+> **Production agentic AI means running agents as reliable, observable, and governed services—ready for enterprise scale and compliance.**
+>
+> In this course, production means engineering for mission-critical reliability, not just demo deployments.
 
 ```
  Client ─▶ API GW ─▶ Agent Runtime ─▶ Model Gateway ─▶ Models

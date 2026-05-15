@@ -1,5 +1,9 @@
 # Course Index — Anthropic Agentic AI Engineering
 
+> **Agentic AI Engineering Focus**
+>
+> This course is focused on agentic AI engineering—designing, building, and deploying agentic systems for real-world workflows. All modules and docs are about agentic architectures, not general software development or unrelated AI topics.
+
 Welcome to the course index. Each module is maintained as its own file in the [`modules/`](../modules) directory. Use the table of contents below to navigate.
 
 For a high-level tree view of the course, see [course_overview.md](course_overview.md). For definitions of key terms, see [glossary.md](glossary.md). To contribute, see [CONTRIBUTING.md](../CONTRIBUTING.md).

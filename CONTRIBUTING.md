@@ -1,5 +1,9 @@
 # Contributing
 
+> **Agentic AI Engineering Focus**
+>
+> This project is dedicated to agentic AI engineering. All contributions should align with the goal of building, documenting, or improving agentic AI systems and workflows—not general software development or unrelated AI topics.
+
 Thanks for your interest in improving **Anthropic Agentic AI Engineering**! Contributions of all sizes are welcome — fixing typos, clarifying explanations, adding examples, or proposing new sections.
 
 ## Ways to Contribute

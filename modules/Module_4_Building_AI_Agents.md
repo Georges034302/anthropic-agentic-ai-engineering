@@ -2,6 +2,10 @@
 
 > **Module goal.** Move from theory to engineering: design a single agent that **plans, remembers, acts autonomously, and stays inside its guardrails** — the building block of every multi-agent system.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to the engineering of agentic AI agents—autonomous, goal-driven systems that plan, act, remember, and operate within guardrails. The focus is on building robust, production-ready agent architectures, not on general automation or unrelated software development topics.
+
 ## Table of Contents
 
 - [4.1 Single-Agent Architectures](#41-single-agent-architectures)
@@ -13,7 +17,9 @@
 
 ## 4.1 Single-Agent Architectures
 
-> The agent is a **control loop around a model**. The architecture is the shape of that loop.
+> **Agentic AI agents are engineered as control loops that reason, act, observe, and adapt—enabling autonomy and reliability in real-world workflows.**
+>
+> In this course, agent architecture means designing the loop, memory, and tool use that make autonomy possible and safe.
 
 ```
        ┌────────────┐

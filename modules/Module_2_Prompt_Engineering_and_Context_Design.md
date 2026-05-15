@@ -2,6 +2,10 @@
 
 > **Module goal.** Treat prompts and context as **engineered artifacts**: design them with structure, test them like code, and shape them to make models reliable, tool-using collaborators rather than unpredictable text generators.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to prompt engineering and context design for agentic AI systems—autonomous agents that use prompts, tools, and structured context to achieve real-world goals. The focus is on engineering prompts and context as robust, testable components of agentic workflows, not on general prompt writing or unrelated generative models.
+
 ## Table of Contents
 
 - [2.1 Prompt Engineering Principles](#21-prompt-engineering-principles)
@@ -13,7 +17,9 @@
 
 ## 2.1 Prompt Engineering Principles
 
-> A prompt is not a wish. It is a **specification** the model executes against — and like any specification, ambiguity costs you.
+> **Agentic prompt engineering is about designing prompts and context that enable agents to reliably plan, act, and use tools—not just generate text.**
+>
+> In this course, prompt engineering is a discipline for building agentic systems that can reason, use memory, and interact with the world through structured, testable prompts and context blocks.
 
 The shift from "prompt hacking" to **prompt engineering** is the shift from clever phrasing to disciplined design: clear intent, explicit structure, deliberate reasoning, and curated context.
 

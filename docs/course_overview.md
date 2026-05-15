@@ -1,5 +1,9 @@
 # Course Overview
 
+> **Agentic AI Engineering Focus**
+>
+> This course is dedicated to the engineering of agentic AI systems—autonomous, goal-driven software agents that plan, act, and adapt in real-world workflows. All modules, docs, and examples are focused on agentic architectures, not general software development or unrelated AI topics.
+
 A tree view of the **Anthropic Agentic AI Engineering** course structure. Each module is a separate file in [`modules/`](../modules); the full clickable index is in [`docs/index.md`](index.md).
 
 ## Course Tree

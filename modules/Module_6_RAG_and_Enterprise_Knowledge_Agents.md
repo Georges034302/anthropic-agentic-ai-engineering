@@ -2,6 +2,10 @@
 
 > **Module goal.** Engineer **trustworthy, governed, agent-driven access to enterprise knowledge** — so answers are grounded, citable, fresh, and safe.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to agentic RAG (Retrieval-Augmented Generation) and knowledge agents—engineering systems where agents ground answers in enterprise data, enforce governance, and deliver trustworthy results. The focus is on agent-driven RAG, not on generic search or unrelated knowledge management topics.
+
 ## Table of Contents
 
 - [6.1 Enterprise RAG](#61-enterprise-rag)
@@ -13,7 +17,9 @@
 
 ## 6.1 Enterprise RAG
 
-> RAG turns the model from a *guesser* into a *reader*. Done well, it is the cheapest way to make AI useful on **your** data.
+> **Agentic RAG means engineering agents that retrieve, ground, and govern knowledge—delivering citable, auditable, and safe answers.**
+>
+> In this course, RAG is a core agentic pattern for trustworthy enterprise AI.
 
 ```
    Question ─▶ Retrieve ─▶ Rank ─▶ Augment ─▶ Generate ─▶ Cite

@@ -2,6 +2,10 @@
 
 > **Module goal.** Compose multiple specialized agents into a **system that solves problems no single agent can** — while keeping coordination, communication, and cost under control.
 
+> **Agentic AI Engineering Focus**
+>
+> This module is dedicated to engineering multi-agent systems—composing specialized agentic AI components to solve complex problems collaboratively. The focus is on agentic architectures, coordination, and safety, not on general distributed systems or unrelated software topics.
+
 ## Table of Contents
 
 - [5.1 Multi-Agent Concepts](#51-multi-agent-concepts)
@@ -13,7 +17,9 @@
 
 ## 5.1 Multi-Agent Concepts
 
-> One agent is a function. Many agents are an **organization**.
+> **Multi-agent systems in agentic AI are engineered organizations—where agents specialize, collaborate, and coordinate to achieve goals beyond the reach of any single agent.**
+>
+> In this course, multi-agent means designing agentic workflows, roles, and topologies for reliability and value.
 
 ```
                   ┌───────────────┐

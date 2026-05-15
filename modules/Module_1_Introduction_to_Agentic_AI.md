@@ -2,6 +2,10 @@
 
 > **Module goal.** Build a precise mental model of what agentic AI *is*, what makes it different from prior generations of AI, and where it creates measurable value in the enterprise.
 
+> **Agentic AI Engineering Focus**
+> 
+> This course is dedicated to the engineering of agentic AI systems—autonomous, goal-driven software agents that plan, act, and adapt in real-world workflows. It is not about general software development or generative image models (e.g., Stable Diffusion), but about building, deploying, and operating agentic AI architectures for enterprise and production use.
+
 ## Table of Contents
 
 - [1.1 What is Agentic AI](#11-what-is-agentic-ai)
@@ -13,7 +17,9 @@
 
 ## 1.1 What is Agentic AI
 
-> Agentic AI moves software from **answering questions** to **completing work**.
+> **Agentic AI moves software from answering questions to completing work.**
+>
+> In this course, "agentic" means engineering systems that can autonomously pursue goals, use tools, and adapt to changing information—far beyond simple API calls or static prompts. Our focus is on the practical design and deployment of such agentic workflows.
 
 A foundation model on its own is a powerful function: text in, text out. An **agent** wraps that function in a loop, gives it tools, gives it memory, and points it at a goal. The result is a system that can plan, act, observe, and adapt — autonomously.
 
